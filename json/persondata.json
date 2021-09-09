@@ -1,0 +1,25 @@
+{
+    "Marcus" : {
+        "Age" : 20,
+        "Gender" : "Male",
+        "Height" : [
+            {
+                "Height" : 178,
+                "måleenhed" : "cm"
+            },
+            {
+                "Height" : 1780,
+                "måleenhed" : "mm"
+            }
+        ],
+        "Eye Color" : "Blue",
+        "First Name" : "Marcus",
+        "Middle Name" : "Philip Hjorth",
+        "Second Name" : "Rasmussen",
+        "Sock Color" : "White"
+    },
+    "kontakt": {
+        "email" : "marcus@gmail.com",
+        "telefon" : 11223344    
+    }
+}
