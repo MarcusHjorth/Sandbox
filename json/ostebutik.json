@@ -1,0 +1,20 @@
+{
+    "BriansOstebutik": {
+        "varer": [{
+            "varenummer": 543,
+            "varenavn": "ostehaps",
+            "pris": {
+                "pris": 50,
+                "valuta": "dkk"
+            },
+            "antal": 25,
+            "beskrivelse": "Søde og sure ostehapsere!!",
+            "lagerbeholdning": 2345,
+            "billede": [
+                "lillebror.jpeg",
+                "lillebrorEmbalage"
+            ],
+            "tilbud": true
+        }]
+    } 
+}
